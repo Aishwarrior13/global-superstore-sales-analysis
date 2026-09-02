@@ -1,28 +1,71 @@
 # Global Superstore Sales Analysis 🌍
 
-## Overview
-Interactive multi-page Power BI dashboard analyzing 
-global retail sales across 7 markets, 3 product 
-categories, and 147 countries.
+## Project Overview
 
-## Key Insights
-- Technology is highest revenue category at $4.74M
-- APAC is the strongest market with $3.58M in sales
-- Phones and Copiers are top performing sub-categories
-- EU shows highest Office Supplies demand
+This Power BI project analyzes global retail performance across **7 markets, 3 product categories, and 147 countries** using the Global Superstore dataset.
 
-## Tools Used
-- Power BI Desktop
+The dashboard was designed to help identify the strongest markets, top-performing categories and sub-categories, and regional sales patterns through interactive visuals and filters.
+
+## Business Questions
+
+The analysis focuses on questions such as:
+
+1. Which markets generate the highest sales?
+2. Which product categories and sub-categories perform best?
+3. How does sales performance vary across countries and regions?
+4. Which markets show stronger demand for specific product categories?
+5. What patterns can be identified through interactive filtering and geographic analysis?
+
+## Dashboard Preview
+
+![Global Superstore Dashboard](Screenshot%202026-02-19%20003032.png)
+
+![Global Superstore Analysis](Screenshot%202026-02-19%20001445.png)
+
+## Key Findings
+
+- **Technology** is the highest-revenue category at approximately **$4.74M**.
+- **APAC** is the strongest market, generating approximately **$3.58M** in sales.
+- **Phones** and **Copiers** are among the strongest-performing sub-categories.
+- The **EU** market shows particularly strong demand for Office Supplies.
+- Geographic and market-level views reveal meaningful differences in product demand across regions.
+
+## Power BI Skills Demonstrated
+
+- Data modeling and measure creation
 - DAX measures
-- Map, Treemap, Matrix, Q&A visuals
 - Interactive slicers and filters
+- Geographic map visualizations
+- Treemap analysis
+- Matrix / heat-map style analysis
+- Stacked bar charts
+- Natural-language Q&A visual
+- Multi-page dashboard design
 
 ## Dashboard Features
-- World map with sales by region
-- Natural language Q&A feature
-- Heat map matrix by market and category
-- Country slicer with tile layout
-- Stacked bar charts by sub-category and market
+
+- World map showing sales by geography
+- Market and category performance analysis
+- Sub-category comparison across markets
+- Country slicer with tile-style interaction
+- Matrix view for market/category comparison
+- Natural-language Q&A exploration
+- Multiple interactive dashboard pages
+
+## Analytical Takeaways
+
+The dashboard shows that overall sales performance is not evenly distributed across markets or product categories. APAC contributes strongly to total sales, while Technology leads category revenue. Sub-category and regional breakdowns help identify where specific products perform best and where sales opportunities may exist.
+
+## Tools Used
+
+- **Power BI Desktop**
+- **DAX**
+- Interactive visualizations and slicers
 
 ## Dataset
-Source: Kaggle — Global Superstore Dataset
+
+**Source:** Kaggle — Global Superstore Dataset
+
+## Project Purpose
+
+This project demonstrates the ability to transform retail data into an interactive business dashboard, identify commercially relevant patterns, and communicate insights through Power BI.
